@@ -1,2 +1,2 @@
 # project01_Gioda
-Primo progetto realizzato ingit
+Primo progetto realizzato in git
